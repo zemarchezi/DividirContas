@@ -56,7 +56,8 @@ if __name__ == '__main__':
 
 
     pagamentos = {'P1': 200,
-                  'P2': 50
+                  'P2': 50,
+                  'P3' : 10
                   }
 
     Div = DivideContas(pagamentos=pagamentos)
